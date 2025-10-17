@@ -1,0 +1,1 @@
+Run hourly on Railway with cron: 0 * * * *\nCommand: python scan_bot.py\nSilent geo fallback built-in.\n
